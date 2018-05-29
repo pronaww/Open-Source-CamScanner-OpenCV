@@ -9,5 +9,5 @@ Image should be with plane background and named as "sample.jpeg" (without the qu
 # Compile using this command
 
 ```
-g++ scanner.cpp -o output `pkg-config --cflags --libs opencv`
+  g++ scanner.cpp -o output `pkg-config --cflags --libs opencv`
 ```
